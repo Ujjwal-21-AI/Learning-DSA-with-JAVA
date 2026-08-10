@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 public class RemDuplicate {
     public static void main(String[] args){
