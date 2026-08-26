@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 public class FindnocaOnce {
     public static void main(String[] args){
