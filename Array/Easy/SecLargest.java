@@ -1,4 +1,4 @@
-package Array;
+package Array.Easy;
 import java.util.*;
 public class SecLargest {
     public static void main(String[] args){

@@ -1,3 +1,4 @@
+package Array.Easy;
 import java.util.*;
 public class LongestSubArrSUM {
     public static int LongestSubArrSUM(int[] arr, int k){

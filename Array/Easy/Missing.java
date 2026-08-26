@@ -1,4 +1,4 @@
-package Array;
+package Array.Easy;
 import java.util.*;
 public class Missing {
     public static void main(String[] args) {

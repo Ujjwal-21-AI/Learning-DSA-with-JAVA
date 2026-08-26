@@ -1,4 +1,4 @@
-package Array;
+package Array.Easy;
 import java.util.*;
 public class RotateArray {
     public static void rotate(int[] nums,int k){
