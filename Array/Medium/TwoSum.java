@@ -1,3 +1,4 @@
+package Array.Medium;
 import java.util.*;
 public class TwoSum {
     public static void main(String[] args){
