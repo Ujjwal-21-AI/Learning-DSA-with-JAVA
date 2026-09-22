@@ -1,4 +1,4 @@
-package Array.Easy;
+
 import java.util.*;
 public class Linear {
     public static void main(String[] args){
