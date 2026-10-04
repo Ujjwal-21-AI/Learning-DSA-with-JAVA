@@ -1,3 +1,4 @@
+package Array.Medium;
 
 import java.util.*;
     class Solution{
